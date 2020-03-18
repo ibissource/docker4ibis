@@ -1,5 +1,7 @@
 # Run Ibis Configurations with Docker
 
+This project has been superseeded by the Frank!Runner, https://github.com/ibissource/frank-runner. This project is not being maintained anymore.
+
 This project will help you run your Ibis configuration(s) with Docker.
 
 It is assumed you already have Docker Desktop installed and running on your computer (for OSX or Windows) or have the docker and docker-compose commands available on your system.
